@@ -1,10 +1,10 @@
 index: http://pubs.opengroup.org/onlinepubs/9699919799/idx/headers.html
 
-C assert.h
-C complex.h
-C ctype.h
-C errno.h
-C fenv.h
+C assert.h  XXX Not instantiable macro (assert)
+C complex.h XXX Special types (complex)
+C ctype.h OK
+C errno.h OK
+C fenv.h DEFER
 C float.h
 C inttypes.h
 C iso646.h
