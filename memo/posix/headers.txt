@@ -5,10 +5,10 @@ C complex.h XXX Special types (complex)
 C ctype.h OK
 C errno.h OK
 C fenv.h DEFER
-C float.h
-C inttypes.h
-C iso646.h
-C limits.h
+C float.h OK
+C inttypes.h DEFER
+C iso646.h NONE
+C limits.h OK
 C locale.h
 C math.h
 C setjmp.h
