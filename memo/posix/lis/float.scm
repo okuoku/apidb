@@ -1,6 +1,6 @@
 (header "float.h")
 
-(macroconst
+(macroval
   FLT_ROUNDS
   FLT_EVAL_METHOD
   FLT_RADIX

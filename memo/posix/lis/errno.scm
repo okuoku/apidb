@@ -1,6 +1,6 @@
 (header "errno.h")
 
-(macrvar int errno)
+(macrovar int errno)
 (macroval*
  E2BIG
  EACCESS

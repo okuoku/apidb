@@ -18,7 +18,7 @@ C stdbool.h
 C stddef.h
 C stdint.h
 C stdio.h
-C stdlib.h
+C stdlib.h FIXME: getsubopt
 C string.h
 C tgmath.h
 C time.h

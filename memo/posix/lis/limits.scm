@@ -1,6 +1,6 @@
 (header "limits.h")
 
-(macroconst*
+(macroval*
   AIO_LISTIO_MAX
   AIO_MAX
   AIO_PRIO_DELTA_MAX
